@@ -1,0 +1,23 @@
+#75 cps autoclicker
+Here is a auto clicker i made there is no gui but you can find the tutorial below
+
+# TUTORIAL
+
+# IF YOU DON'T HAVE PYCHARM
+
+Step 1: Open your browser
+Step 2: Type this 'https://www.jetbrains.com/pycharm/download/' into your searchbar
+Step 3: Choose your system (Windows, Mac or Linux)
+Step 4: Download the community edition (because the professional is expensive, but ur choice tho)
+Step 5: Install the app
+Step 6: Go to the Projects section and drag my file named 'main.py' to there
+Step 7: Click the run button from the top right
+
+# IF YOU HAVE PYCHARM
+
+Step 1: Go to the Projects section and drag my file named 'main.py' to there
+Step 2: Click the run button from the top right
+
+# HOW TO USE THE APP
+Start/Stop: 'S' Key
+Exit: 'E' Key
